@@ -151,3 +151,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 /.history
+data/Singlish/WSD Romanized-Sinhala - Sinhala.csv
+data/Singlish/WSD Romanized-Sinhala - Sinhala .txt
+data/Singlish/test1.txt
+data/Singlish/test1.csv
+data/Singlish/Swa Bhasha D 1.txt
+data/Singlish/Swa Bhasha D 1.csv
+data/Singlish/Romanized Sinhala- sinhala cleaned data.txt
+data/Singlish/Romanized Sinhala- sinhala cleaned data.csv
+data/ChatBot/TweetChatGPT.csv
+data/ChatBot/GeneralCovos.csv
+converted_data.csv
